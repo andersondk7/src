@@ -1,1 +1,1 @@
-this is the initial version of src/move/move.txt
+this is the 1 set of changes to src/move/move.txt -- done in src procject
