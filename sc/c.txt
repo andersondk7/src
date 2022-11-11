@@ -1,1 +1,1 @@
-this is the 1 round of changes to src/sc/c.txt
+this is the 2 round of changes to src/sc/c.txt done in the src project
